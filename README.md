@@ -1,11 +1,5 @@
 # Wrench-Base
-#Technological Tools (Server Side)
-- CRUD operations are dealt with GET, POST, DELETE, PUT, and PATCH API.
-- Stripe js for payment.
-- MongoDB as database.
-- JWT for authentication.
-- Express js.
-
+a website of the most reliable wrench manufacturer
 # Project Details
 - 4 types of sign-in methods (Email, Google, Github, Facebook).
 - Responsive for desktop and mobile devices.
@@ -16,6 +10,13 @@
 - Separate admin and user panel in dashboard.
 - Payment option within the app.
 - Realistic Footer.
+
+#Technological Tools (Server Side)
+- CRUD operations are dealt with GET, POST, DELETE, PUT, and PATCH API.
+- Stripe js for payment.
+- MongoDB as database.
+- JWT for authentication.
+- Express js.
 
 # Technological Tools (Client Side)
 - Tailwind Css (JIT-mode) and its components for styling.
