@@ -1,12 +1,12 @@
 # Wrench Base
 a website of the most reliable wrench manufacturer
 # Project Details
-- 4 types of sign-in methods (Email, Google, Github, Facebook).
+- 4 types of sign-in methods (Email, Google, GitHub, Facebook).
 - Responsive for desktop and mobile devices.
 - Protected, nested and dynamic routes are available.
 - Toggle between signin and signup.
 - Sensitive keys are secret.
-- 401 and 403 status are properly handled, and 404 route exists.
+- 401 and 403 statuses are properly handled, and 404 route exists.
 - Separate admin and user panel in dashboard.
 - Payment option within the app.
 - Realistic Footer.
